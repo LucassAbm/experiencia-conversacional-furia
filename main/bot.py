@@ -34,7 +34,7 @@ async def torcida(update: Update, context: ContextTypes.DEFAULT_TYPE):
 if __name__ == "__main__":
     import os
 
-    TOKEN = "7725247450:AAHOPKwmxJIfQ-Ddyh7zODo0Qlm_akrXnZY"  # Substitua pelo seu token do BotFather
+    TOKEN = "***"  # Substitua pelo seu token do BotFather
 
     app = ApplicationBuilder().token(TOKEN).build()
 
